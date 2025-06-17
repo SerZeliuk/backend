@@ -19,3 +19,5 @@ Or just
 ```bash
 pytest --maxfail=1 --disable-warnings -q
 ```
+
+**P.S: the first api doesn't directly return the estimated solar energy, but it is calculated on the frontend, as I made the parameters customizable**
